@@ -1,0 +1,8 @@
+{
+  "name": "Collab Task",
+  "description": "A powerful, AI-assisted task management application with multi-language support, theming, and intuitive organization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
