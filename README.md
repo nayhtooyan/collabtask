@@ -1,20 +1,44 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="CollabTaskBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Collab Task - AI-Powered To-Do List App
 
-This contains everything you need to run your app locally.
+**Powered by CodeCollab Technology**  
 
-View your app in AI Studio: https://ai.studio/apps/drive/1qDXdBsGaqnvnf-OninBjenDazjNsZTn1
+Collab Task is a modern, feature-rich To-Do List app designed to help you stay organized, manage your tasks, and track your goals efficiently. With real-time syncing, multi-language support, AI assistance, and customizable themes, staying productive has never been easier.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🌟 Features
 
+- **User Authentication**  
+  Secure **email registration and login** with email verification.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Multi-Language Support**  
+  Switch seamlessly between **English** and **Myanmar**.
+
+- **Theme Customization**  
+  Choose **Light** or **Dark Mode**. Preferences are saved and synced across devices.
+
+- **Task Management**  
+  Create, edit, delete, and organize tasks and goals. Track deadlines, priorities, and progress in real time.
+
+- **AI Assistance**  
+  Automatically generate task lists, improve task descriptions, and receive helpful suggestions.
+
+- **Profile Customization**  
+  Upload a profile photo, edit your details, and personalize your app experience.
+
+- **Cross-Device Sync**  
+  All tasks, goals, and settings are synced across devices in real time.
+
+---
+
+## 💻 Run Locally
+
+**Prerequisites:** Node.js
+
+1. Install dependencies:  
+   ```bash
+   npm install
